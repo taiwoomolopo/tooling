@@ -73,7 +73,4 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-testing jenkins
-another jenkins related test
-new jenkins test
-ssh to nfs 2
+
